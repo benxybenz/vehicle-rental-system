@@ -1,7 +1,11 @@
 import json
 
+<<<<<<< HEAD
 print("This is version B")
 
+=======
+print("This is version A ")
+>>>>>>> practice-branch
 class Vehicle:
     def __init__(self,vehicle_id,brand,model,manufacturing_year,rental_price,availabilty_status,type_of_vehicle):
         self.vehicle_id = vehicle_id
